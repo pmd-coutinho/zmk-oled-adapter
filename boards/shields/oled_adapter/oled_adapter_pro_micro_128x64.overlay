@@ -20,6 +20,7 @@
         segment-remap;
         com-invdir;
         inversion-on;
+        rotation = <90>;
         prechargep = <0x22>;
     };
 };
